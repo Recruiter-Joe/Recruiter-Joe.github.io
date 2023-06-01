@@ -1,13 +1,13 @@
 # site settings
 
-title: cvless
-description: Jekyll theme for a beautiful online CV
+title: Joseph Gordon
+description: Senior Recruiting Partner
 taglong: Jekyll theme for a beautiful online CV
 tagshort: Jekyll theme
-url: https://cvless.netlify.app
+url: https://recruiter-joe.github.io
 baseurl: ""
 permalink: pretty
-repo: https://github.com/username/username.github.io
+repo: https://Recruiter-Joe/recruiter-joe.github.io
 
 # author settings
 
