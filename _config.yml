@@ -2,8 +2,8 @@
 
 title: Joseph Gordon
 description: Senior Recruiting Partner
-taglong: Jekyll theme for a beautiful online CV
-tagshort: Jekyll theme
+taglong: Online visaul CV
+tagshort: Visaul CV
 url: https://recruiter-joe.github.io
 baseurl: ""
 permalink: pretty
@@ -13,7 +13,7 @@ repo: https://Recruiter-Joe/recruiter-joe.github.io
 
 author:
   name: Place Holder
-  email: username@domain.com
+  email: jgordon.career@gmail.com
 photo: /assets/photo.jpg
 
 # build settings
