@@ -15,7 +15,7 @@ Throughout my career, I have also been responsible for managing relationships wi
 
 Overall, my experience in technical recruitment has equipped me with the skills, knowledge, and passion to drive talent acquisition efforts that accelerate growth and success for early-stage startups. I am excited to continue this work and make an impact in the tech industry.
 
-<video> https://www.youtube.com/live/MVPTGNGiI-4?feature=share </video>
+
 
 
 {% include archive.html %}
