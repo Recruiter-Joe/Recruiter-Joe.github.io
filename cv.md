@@ -12,8 +12,10 @@ Technical Recruiter • Executive Recruiter • Founding Recruiter • Recruitin
 
 ▪ An organized, energetic, and highly resourceful recruitment professional with 6+ years of experience
 building teams and serving as an indispensable partner to stakeholders and hiring managers.
+
 ▪ A proactive contributor who excels in translating high-level recruiting goals into implementation, and
 owns the execution from end to end.
+
 ▪ Highly regarded for consistent ability to provide a world-class candidate experience, emotional
 intelligence, and decorum to sensitive, confidential, and unpredictable situations.
 
