@@ -8,7 +8,7 @@ title: CV
 {% include contact.html %}
 
 ## CAREER SUMMARY
-Technical Recruiter • Executive Recruiter • Founding Recruiter • Recruiting Manager
+</mark> Technical Recruiter • Executive Recruiter • Founding Recruiter • Recruiting Manager </mark>
 
 ▪ An organized, energetic, and highly resourceful recruitment professional with 6+ years of experience
 building teams and serving as an indispensable partner to stakeholders and hiring managers.
