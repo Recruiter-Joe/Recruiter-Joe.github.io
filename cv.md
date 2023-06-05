@@ -10,28 +10,28 @@ title: CV
 ## CAREER SUMMARY
 Technical Recruiter • Executive Recruiter • Founding Recruiter • Recruiting Manager 
 
-▪ An organized, energetic, and highly resourceful recruitment professional with 6+ years of experience
+● An organized, energetic, and highly resourceful recruitment professional with 6+ years of experience
 building teams and serving as an indispensable partner to stakeholders and hiring managers.
 
-▪ A proactive contributor who excels in translating high-level recruiting goals into implementation, and
+● A proactive contributor who excels in translating high-level recruiting goals into implementation, and
 owns the execution from end to end.
 
-▪ Highly regarded for consistent ability to provide a world-class candidate experience, emotional
+● Highly regarded for consistent ability to provide a world-class candidate experience, emotional
 intelligence, and decorum to sensitive, confidential, and unpredictable situations.
 
 ## AREAS OF EXPERTISE
-▪ Full-cycle recruitment
-▪ Dynamic candidate sourcing
-▪ Team Leadership
-▪ Negotiation
-▪ Stakeholder Management
-▪ Forecasting & Planning
-▪ Operations Management
-▪ Sales / Marketing
-▪ ATS expertise (Greenhouse,
+● Full-cycle recruitment
+● Dynamic candidate sourcing
+● Team Leadership
+● Negotiation
+● Stakeholder Management
+● Forecasting & Planning
+● Operations Management
+● Sales / Marketing
+● ATS expertise (Greenhouse,
 Lever, Ashby)
-▪ Gem, Brighthire, Pave
-▪ Google Workspace
+● Gem, Brighthire, Pave
+● Google Workspace
 /Microsoft 365
 
 ## PROFESSIONAL EXPERIENCE
@@ -53,9 +53,9 @@ in releasing a new product offering.
 the state of candidate pipelines, messaging response rates, and offer acceptance rates.
 
 ### Serverless Inc., San Francisco, CA June 2021 - June 2022
-The Serverless Framework empowers developers to build and operate serverless architectures on AWS, Microsoft
+<em> The Serverless Framework empowers developers to build and operate serverless architectures on AWS, Microsoft
 Azure, Google Cloud Platform, and 5 other cloud platforms. The Serverless Framework is one of the most popular
-open-source projects on GitHub and is the industry standard for serverless development.
+open-source projects on GitHub and is the industry standard for serverless development. </em>
 
 ### Founding Recruiter/ Recruiting Manager
 Joined Serverless as their first in-house recruiter after 3 years of helping to build the team as an agency
@@ -71,7 +71,7 @@ comprehensive approach to delivering a world-class candidate experience. Additio
 guides for hiring managers, templates for employee outreach, selling equity, and closing strategies
 
 ### Kofi Group, Houston, TX July 2018 - June 2021
-A boutique recruitment agency focused on VC-backed startups
+<em> A boutique recruitment agency focused on VC-backed startups </em>
 
 ### Senior Executive Recruiter/ Recruiting Manager
 Recruited as Kofi Group’s founding recruiter for the SF/Bay Area. Starting from no presence and no book of
@@ -87,7 +87,7 @@ interview process that allowed us to gain competency signals through non-traditi
 techniques
 
 ### ExpanXion, Westlake Village, CA February 2017 - July 2018
-A boutique recruitment agency focused on early-stage startups
+<em> A boutique recruitment agency focused on early-stage startups </em>
 
 ### Team Lead/ Senior Technical Recruiter
 Joined as a Full-desk Technical Recruiter focused on new business development, candidate sourcing, and
@@ -105,7 +105,7 @@ AA, Business Administration and Management
 Pikes Peak State College, Colorado Springs, CO
 
 ## REFERENCES
-References available upon request
+<strong> References available upon request </strong>
 
 
 
