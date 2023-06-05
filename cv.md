@@ -37,10 +37,10 @@ Lever, Ashby)
 ## PROFESSIONAL EXPERIENCE
 
 ### Abnormal Security, San Francisco, CA August 2022 - March 2023
-<sub>Cybersecurity startup providing protection against the widest range of attacks using ML to detect behavior patterns
-deviations and indicative signals of compromised account credentials</sub>
+<em>Cybersecurity startup providing protection against the widest range of attacks using ML to detect behavior patterns
+deviations and indicative signals of compromised account credentials</em>
 
-### Senior Technical Recruiter
+### <mark>Senior Technical Recruiter
 Recruited to join Abnormal’s technical recruiting team where I was responsible for seeing the candidate
 experience through from end to end. Built candidate pipelines with top-tier candidates in a high-growth startup
 environment.
@@ -50,12 +50,12 @@ positions, on the Platform and Infrastructure teams, were crucial to the iterati
 in releasing a new product offering.
 
 ● Led daily standups with my team, and met with internal stakeholders to share reports and metrics on
-the state of candidate pipelines, messaging response rates, and offer acceptance rates.
+the state of candidate pipelines, messaging response rates, and offer acceptance rates.</mark>
 
 ### Serverless Inc., San Francisco, CA June 2021 - June 2022
-<sub>The Serverless Framework empowers developers to build and operate serverless architectures on AWS, Microsoft
+<em>The Serverless Framework empowers developers to build and operate serverless architectures on AWS, Microsoft
 Azure, Google Cloud Platform, and 5 other cloud platforms. The Serverless Framework is one of the most popular
-open-source projects on GitHub and is the industry standard for serverless development.</sub>
+open-source projects on GitHub and is the industry standard for serverless development.</em>
 
 ### Founding Recruiter/ Recruiting Manager
 Joined Serverless as their first in-house recruiter after 3 years of helping to build the team as an agency
@@ -66,12 +66,13 @@ use.
 ● Recruited technical and non-technical executives that would lead to the creation of Sales, Marketing,
 and Accounting departments to be added to the company. These first hires allowed Serverless to go
 from 0 to 1, and further deeper business objectives
+
 ● Created an end-to-end recruitment playbook for a Series B startup. This playbook took a
 comprehensive approach to delivering a world-class candidate experience. Additional aspects included
 guides for hiring managers, templates for employee outreach, selling equity, and closing strategies
 
 ### Kofi Group, Houston, TX July 2018 - June 2021
-<sub>A boutique recruitment agency focused on VC-backed startups</sub>
+<em>A boutique recruitment agency focused on VC-backed startups</em>
 
 ### Senior Executive Recruiter/ Recruiting Manager
 Recruited as Kofi Group’s founding recruiter for the SF/Bay Area. Starting from no presence and no book of
@@ -87,7 +88,7 @@ interview process that allowed us to gain competency signals through non-traditi
 techniques
 
 ### ExpanXion, Westlake Village, CA February 2017 - July 2018
-<sub>A boutique recruitment agency focused on early-stage startups</sub>
+<em>A boutique recruitment agency focused on early-stage startups</em>
 
 ### Team Lead/ Senior Technical Recruiter
 Joined as a Full-desk Technical Recruiter focused on new business development, candidate sourcing, and
