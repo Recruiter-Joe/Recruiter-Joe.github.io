@@ -9,12 +9,14 @@ title: CV
 
 ## CAREER SUMMARY
 Technical Recruiter • Executive Recruiter • Founding Recruiter • Recruiting Manager
+
 ▪ An organized, energetic, and highly resourceful recruitment professional with 6+ years of experience
 building teams and serving as an indispensable partner to stakeholders and hiring managers.
 ▪ A proactive contributor who excels in translating high-level recruiting goals into implementation, and
 owns the execution from end to end.
 ▪ Highly regarded for consistent ability to provide a world-class candidate experience, emotional
 intelligence, and decorum to sensitive, confidential, and unpredictable situations.
+
 ## AREAS OF EXPERTISE
 ▪ Full-cycle recruitment
 ▪ Dynamic candidate sourcing
@@ -29,7 +31,9 @@ Lever, Ashby)
 ▪ Gem, Brighthire, Pave
 ▪ Google Workspace
 /Microsoft 365
+
 ## PROFESSIONAL EXPERIENCE
+
 ### Abnormal Security, San Francisco, CA August 2022 - March 2023
 Cybersecurity startup providing protection against the widest range of attacks using ML to detect behavior patterns
 deviations and indicative signals of compromised account credentials
@@ -98,7 +102,7 @@ startup founders that I have partnered with have successful exits in the market.
 AA, Business Administration and Management
 Pikes Peak State College, Colorado Springs, CO
 
-##REFERENCES
+## REFERENCES
 References available upon request
 
 
