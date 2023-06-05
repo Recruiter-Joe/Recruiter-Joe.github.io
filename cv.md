@@ -8,7 +8,7 @@ title: CV
 {% include contact.html %}
 
 ## CAREER SUMMARY
-</mark> Technical Recruiter • Executive Recruiter • Founding Recruiter • Recruiting Manager </mark>
+Technical Recruiter • Executive Recruiter • Founding Recruiter • Recruiting Manager 
 
 ▪ An organized, energetic, and highly resourceful recruitment professional with 6+ years of experience
 building teams and serving as an indispensable partner to stakeholders and hiring managers.
@@ -37,8 +37,8 @@ Lever, Ashby)
 ## PROFESSIONAL EXPERIENCE
 
 ### Abnormal Security, San Francisco, CA August 2022 - March 2023
-Cybersecurity startup providing protection against the widest range of attacks using ML to detect behavior patterns
-deviations and indicative signals of compromised account credentials
+<em> Cybersecurity startup providing protection against the widest range of attacks using ML to detect behavior patterns
+deviations and indicative signals of compromised account credentials </em>
 
 ### Senior Technical Recruiter
 Recruited to join Abnormal’s technical recruiting team where I was responsible for seeing the candidate
