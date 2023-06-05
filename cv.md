@@ -33,6 +33,7 @@ Lever, Ashby)
 ● Gem, Brighthire, Pave
 ● Google Workspace
 /Microsoft 365
+<br>
 
 ## PROFESSIONAL EXPERIENCE
 
@@ -40,7 +41,7 @@ Lever, Ashby)
 <em>Cybersecurity startup providing protection against the widest range of attacks using ML to detect behavior patterns
 deviations and indicative signals of compromised account credentials</em>
 
-### <mark>Senior Technical Recruiter
+### Senior Technical Recruiter
 Recruited to join Abnormal’s technical recruiting team where I was responsible for seeing the candidate
 experience through from end to end. Built candidate pipelines with top-tier candidates in a high-growth startup
 environment.
@@ -50,7 +51,8 @@ positions, on the Platform and Infrastructure teams, were crucial to the iterati
 in releasing a new product offering.
 
 ● Led daily standups with my team, and met with internal stakeholders to share reports and metrics on
-the state of candidate pipelines, messaging response rates, and offer acceptance rates.</mark>
+the state of candidate pipelines, messaging response rates, and offer acceptance rates.
+<br>
 
 ### Serverless Inc., San Francisco, CA June 2021 - June 2022
 <em>The Serverless Framework empowers developers to build and operate serverless architectures on AWS, Microsoft
@@ -70,6 +72,7 @@ from 0 to 1, and further deeper business objectives
 ● Created an end-to-end recruitment playbook for a Series B startup. This playbook took a
 comprehensive approach to delivering a world-class candidate experience. Additional aspects included
 guides for hiring managers, templates for employee outreach, selling equity, and closing strategies
+<br>
 
 ### Kofi Group, Houston, TX July 2018 - June 2021
 <em>A boutique recruitment agency focused on VC-backed startups</em>
